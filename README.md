@@ -1,6 +1,9 @@
 # Interest Finder Dataset Pakistan
 Universities Student dataset to predict the interest of fresh students who want to join universities
 
+Link to File :
+[Link to Dataset](shorturl.at/cqvOT)
+
 # About Dataset
 I collected this dataset from the university students to get their interest when they are in intermediate and get to know that they are happy with their decisions regarding the choice of educational domain. with this dataset, we try to predict the interest of fresh students who passed their intermediate and try to find the right domain for them
 
